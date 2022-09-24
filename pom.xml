@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://http://54.158.5.199:8081/repository/cash-release/</url>
+	      <url> http://54.158.5.199:8081/repository/cash-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://54.158.5.199:8081/repository/cash-snapshot/</url>
+	      <url>http://54.158.5.199:8081/repository/cash-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
