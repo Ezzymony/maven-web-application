@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.196.196.171:8081/repository/Boa-app-release/</url>
+	      <url>http://52.23.182.152:8081/repository/beam-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.196.196.171:8081/repository/Boa-app-Snapshot/</url>
+	      <url>http://52.23.182.152:8081/repository/beam-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
