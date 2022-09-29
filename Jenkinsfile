@@ -45,7 +45,7 @@ node
  {
  mail bcc: 'mylandmarktech@gmail.com', body: '''Build is over
 
- Thanks,
+ Thanks.
  Landmark Technologies,
  +14372152483.''', cc: 'mylandmarktech@gmail.com', from: '', replyTo: '', subject: 'Build is over!!', to: 'mylandmarktech@gmail.com'
  }
